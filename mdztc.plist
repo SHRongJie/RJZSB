@@ -19,11 +19,11 @@
                 <key>bundle-identifier</key>
                 <string>com.shrjkj</string>
                 <key>bundle-version</key>
-                <string>2.25</string>
+                <string>2.24</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>mdztc</string>
+                <string>秒单直通车</string>
             </dict>
         </dict>
     </array>
